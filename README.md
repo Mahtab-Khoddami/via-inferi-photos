@@ -1,5 +1,3 @@
-# Via degli Inferi – Field Documentation
+## Field Photo
 
-## Drone Survey Photo
-
-![Via Inferi](IMG_2080.JPG)
+![Via Inferi Field Photo](IMG_2063.JPG)
